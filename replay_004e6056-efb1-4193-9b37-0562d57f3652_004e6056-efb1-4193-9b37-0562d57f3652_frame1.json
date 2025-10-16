@@ -1,0 +1,1513 @@
+{
+  "time": 3.70986,
+  "delta": 0.0,
+  "new_actors": [
+    {
+      "actor_id": 0,
+      "name_id": 0,
+      "object_id": 23,
+      "initial_trajectory": {
+        "location": null,
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 1,
+      "name_id": 1,
+      "object_id": 24,
+      "initial_trajectory": {
+        "location": null,
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 2,
+      "name_id": 2,
+      "object_id": 80,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 3,
+      "name_id": 3,
+      "object_id": 97,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 4,
+      "name_id": 4,
+      "object_id": 204,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 5,
+      "name_id": 5,
+      "object_id": 97,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 6,
+      "name_id": 6,
+      "object_id": 208,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 7,
+      "name_id": 7,
+      "object_id": 262,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 93
+        },
+        "rotation": {
+          "yaw": null,
+          "pitch": null,
+          "roll": null
+        }
+      }
+    },
+    {
+      "actor_id": 8,
+      "name_id": 8,
+      "object_id": 208,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 9,
+      "name_id": 9,
+      "object_id": 270,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 10,
+      "name_id": 10,
+      "object_id": 272,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 11,
+      "name_id": 11,
+      "object_id": 277,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 12,
+      "name_id": 12,
+      "object_id": 293,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 13,
+      "name_id": 13,
+      "object_id": 296,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 14,
+      "name_id": 14,
+      "object_id": 327,
+      "initial_trajectory": {
+        "location": {
+          "x": -256,
+          "y": 3840,
+          "z": 17
+        },
+        "rotation": {
+          "yaw": -1,
+          "pitch": -64,
+          "roll": null
+        }
+      }
+    },
+    {
+      "actor_id": 15,
+      "name_id": 15,
+      "object_id": 349,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 16,
+      "name_id": 16,
+      "object_id": 204,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 17,
+      "name_id": 17,
+      "object_id": 351,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 18,
+      "name_id": 18,
+      "object_id": 356,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 19,
+      "name_id": 19,
+      "object_id": 327,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 17
+        },
+        "rotation": {
+          "yaw": -1,
+          "pitch": 64,
+          "roll": null
+        }
+      }
+    },
+    {
+      "actor_id": 20,
+      "name_id": 20,
+      "object_id": 296,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 21,
+      "name_id": 21,
+      "object_id": 270,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 22,
+      "name_id": 22,
+      "object_id": 277,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 23,
+      "name_id": 23,
+      "object_id": 272,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 24,
+      "name_id": 24,
+      "object_id": 293,
+      "initial_trajectory": {
+        "location": {
+          "x": 256,
+          "y": -3840,
+          "z": 36
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 25,
+      "name_id": 25,
+      "object_id": 356,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 26,
+      "name_id": 26,
+      "object_id": 370,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    },
+    {
+      "actor_id": 27,
+      "name_id": 27,
+      "object_id": 371,
+      "initial_trajectory": {
+        "location": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": null
+      }
+    }
+  ],
+  "deleted_actors": [],
+  "updated_actors": [
+    {
+      "actor_id": 2,
+      "stream_id": 21,
+      "object_id": 26,
+      "attribute": {
+        "Int64": "1760347492"
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 27,
+      "object_id": 32,
+      "attribute": {
+        "Int": 28
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 30,
+      "object_id": 35,
+      "attribute": {
+        "Int": 1065353216
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 34,
+      "object_id": 39,
+      "attribute": {
+        "Boolean": true
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 37,
+      "object_id": 42,
+      "attribute": {
+        "ActiveActor": {
+          "active": false,
+          "actor": 372
+        }
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 41,
+      "object_id": 47,
+      "attribute": {
+        "Int": 1
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 54,
+      "object_id": 61,
+      "attribute": {
+        "Int": 300
+      }
+    },
+    {
+      "actor_id": 2,
+      "stream_id": 62,
+      "object_id": 69,
+      "attribute": {
+        "Boolean": true
+      }
+    },
+    {
+      "actor_id": 3,
+      "stream_id": 20,
+      "object_id": 83,
+      "attribute": {
+        "Byte": 128
+      }
+    },
+    {
+      "actor_id": 3,
+      "stream_id": 21,
+      "object_id": 84,
+      "attribute": {
+        "Byte": 128
+      }
+    },
+    {
+      "actor_id": 3,
+      "stream_id": 24,
+      "object_id": 87,
+      "attribute": {
+        "Boolean": true
+      }
+    },
+    {
+      "actor_id": 3,
+      "stream_id": 25,
+      "object_id": 88,
+      "attribute": {
+        "CamSettings": {
+          "fov": 110.0,
+          "height": 90.0,
+          "angle": -4.0,
+          "distance": 270.0,
+          "stiffness": 0.35,
+          "swivel": 6.0,
+          "transition": 1.4
+        }
+      }
+    },
+    {
+      "actor_id": 3,
+      "stream_id": 26,
+      "object_id": 89,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 16
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 35,
+      "object_id": 113,
+      "attribute": {
+        "Byte": 15
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 34,
+      "object_id": 112,
+      "attribute": {
+        "String": "Xela \u00c2\u00b5"
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 32,
+      "object_id": 110,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 27
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 21,
+      "object_id": 99,
+      "attribute": {
+        "UniqueId": {
+          "system_id": 11,
+          "remote_id": {
+            "Epic": "9e092d8338704569bdef5ad79c224ac9"
+          },
+          "local_id": 0
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 33,
+      "object_id": 111,
+      "attribute": {
+        "Int": 257
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 48,
+      "object_id": 128,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 6
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 52,
+      "object_id": 132,
+      "attribute": {
+        "Int": 1
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 60,
+      "object_id": 140,
+      "attribute": {
+        "Float": 2.05
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 62,
+      "object_id": 142,
+      "attribute": {
+        "Int": 29
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 68,
+      "object_id": 148,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 5
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 70,
+      "object_id": 150,
+      "attribute": {
+        "LoadoutsOnline": {
+          "blue": [
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 3
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 8
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 3
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 12
+                }
+              }
+            ],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 374,
+                "value": {
+                  "NewColor": 4282335039
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 374,
+                "value": {
+                  "NewColor": 4294967295
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 375,
+                "value": {
+                  "Title": "Bathroom_Title"
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "orange": [
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 3
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 8
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 3
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 373,
+                "value": {
+                  "NewPaint": 12
+                }
+              }
+            ],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 374,
+                "value": {
+                  "NewColor": 4282335039
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [
+              {
+                "unknown": false,
+                "object_ind": 374,
+                "value": {
+                  "NewColor": 4294967295
+                }
+              }
+            ],
+            [
+              {
+                "unknown": false,
+                "object_ind": 375,
+                "value": {
+                  "Title": "Bathroom_Title"
+                }
+              }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "unknown1": true,
+          "unknown2": false
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 71,
+      "object_id": 151,
+      "attribute": {
+        "TeamLoadout": {
+          "blue": {
+            "version": 28,
+            "body": 4284,
+            "decal": 10761,
+            "wheels": 386,
+            "rocket_trail": 32,
+            "antenna": 0,
+            "topper": 0,
+            "unknown1": 0,
+            "unknown2": 0,
+            "engine_audio": 0,
+            "trail": 3224,
+            "goal_explosion": 5986,
+            "banner": 3166,
+            "product_id": 8762
+          },
+          "orange": {
+            "version": 28,
+            "body": 4284,
+            "decal": 10761,
+            "wheels": 386,
+            "rocket_trail": 32,
+            "antenna": 0,
+            "topper": 0,
+            "unknown1": 0,
+            "unknown2": 0,
+            "engine_audio": 0,
+            "trail": 3224,
+            "goal_explosion": 5986,
+            "banner": 3166,
+            "product_id": 8762
+          }
+        }
+      }
+    },
+    {
+      "actor_id": 4,
+      "stream_id": 74,
+      "object_id": 154,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 2
+        }
+      }
+    },
+    {
+      "actor_id": 5,
+      "stream_id": 20,
+      "object_id": 83,
+      "attribute": {
+        "Byte": 128
+      }
+    },
+    {
+      "actor_id": 5,
+      "stream_id": 21,
+      "object_id": 84,
+      "attribute": {
+        "Byte": 128
+      }
+    },
+    {
+      "actor_id": 5,
+      "stream_id": 24,
+      "object_id": 87,
+      "attribute": {
+        "Boolean": true
+      }
+    },
+    {
+      "actor_id": 5,
+      "stream_id": 25,
+      "object_id": 88,
+      "attribute": {
+        "CamSettings": {
+          "fov": 110.0,
+          "height": 100.0,
+          "angle": -3.0,
+          "distance": 270.0,
+          "stiffness": 0.35,
+          "swivel": 4.2,
+          "transition": 1.7
+        }
+      }
+    },
+    {
+      "actor_id": 5,
+      "stream_id": 26,
+      "object_id": 89,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 4
+        }
+      }
+    },
+    {
+      "actor_id": 7,
+      "stream_id": 42,
+      "object_id": 233,
+      "attribute": {
+        "RigidBody": {
+          "sleeping": true,
+          "location": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 92.75
+          },
+          "rotation": {
+            "x": 2.6973983e-06,
+            "y": 2.6973983e-06,
+            "z": 2.6973983e-06,
+            "w": 1.0
+          },
+          "linear_velocity": null,
+          "angular_velocity": null
+        }
+      }
+    },
+    {
+      "actor_id": 7,
+      "stream_id": 50,
+      "object_id": 242,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 2
+        }
+      }
+    },
+    {
+      "actor_id": 9,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 14
+        }
+      }
+    },
+    {
+      "actor_id": 10,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 14
+        }
+      }
+    },
+    {
+      "actor_id": 11,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 14
+        }
+      }
+    },
+    {
+      "actor_id": 12,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 14
+        }
+      }
+    },
+    {
+      "actor_id": 12,
+      "stream_id": 24,
+      "object_id": 278,
+      "attribute": {
+        "ReplicatedBoost": {
+          "grant_count": 0,
+          "boost_amount": 85,
+          "unused1": 0,
+          "unused2": 0
+        }
+      }
+    },
+    {
+      "actor_id": 13,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 14
+        }
+      }
+    },
+    {
+      "actor_id": 14,
+      "stream_id": 23,
+      "object_id": 212,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 16
+        }
+      }
+    },
+    {
+      "actor_id": 14,
+      "stream_id": 42,
+      "object_id": 233,
+      "attribute": {
+        "RigidBody": {
+          "sleeping": false,
+          "location": {
+            "x": -256.0,
+            "y": 3840.0,
+            "z": 17.01
+          },
+          "rotation": {
+            "x": -0.0033744453,
+            "y": -0.0033744453,
+            "z": 0.70710146,
+            "w": -0.707096
+          },
+          "linear_velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.27
+          },
+          "angular_velocity": {
+            "x": 0.06,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "actor_id": 14,
+      "stream_id": 52,
+      "object_id": 301,
+      "attribute": {
+        "Byte": 255
+      }
+    },
+    {
+      "actor_id": 14,
+      "stream_id": 61,
+      "object_id": 311,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 18
+        }
+      }
+    },
+    {
+      "actor_id": 14,
+      "stream_id": 68,
+      "object_id": 318,
+      "attribute": {
+        "TeamPaint": {
+          "team": 1,
+          "primary_color": 69,
+          "accent_color": 90,
+          "primary_finish": 4127,
+          "accent_finish": 272
+        }
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 30,
+      "object_id": 338,
+      "attribute": {
+        "ActiveActor": {
+          "active": false,
+          "actor": 376
+        }
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 21,
+      "object_id": 329,
+      "attribute": {
+        "String": "OCE1-0312E1243D79978C3-Perihelion"
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 31,
+      "object_id": 340,
+      "attribute": {
+        "String": "7945098211F0A8161BB53AB1CEDBD2CB"
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 32,
+      "object_id": 341,
+      "attribute": {
+        "Boolean": true
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 33,
+      "object_id": 342,
+      "attribute": {
+        "String": "51740391"
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 34,
+      "object_id": 343,
+      "attribute": {
+        "Reservation": {
+          "number": 0,
+          "unique_id": {
+            "system_id": 1,
+            "remote_id": {
+              "Steam": "76561198993592007"
+            },
+            "local_id": 0
+          },
+          "name": "eoa",
+          "unknown1": true,
+          "unknown2": true,
+          "unknown3": 0
+        }
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 34,
+      "object_id": 343,
+      "attribute": {
+        "Reservation": {
+          "number": 1,
+          "unique_id": {
+            "system_id": 11,
+            "remote_id": {
+              "Epic": "9e092d8338704569bdef5ad79c224ac9"
+            },
+            "local_id": 0
+          },
+          "name": "Xela \u00c2\u00b5",
+          "unknown1": true,
+          "unknown2": true,
+          "unknown3": 0
+        }
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 35,
+      "object_id": 344,
+      "attribute": {
+        "String": "OCE"
+      }
+    },
+    {
+      "actor_id": 15,
+      "stream_id": 37,
+      "object_id": 346,
+      "attribute": {
+        "Int": 10
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 34,
+      "object_id": 112,
+      "attribute": {
+        "String": "Yuri"
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 32,
+      "object_id": 110,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 26
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 21,
+      "object_id": 99,
+      "attribute": {
+        "UniqueId": {
+          "system_id": 1,
+          "remote_id": {
+            "Steam": "76561198993592007"
+          },
+          "local_id": 0
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 33,
+      "object_id": 111,
+      "attribute": {
+        "Int": 256
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 48,
+      "object_id": 128,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 8
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 52,
+      "object_id": 132,
+      "attribute": {
+        "Int": 5
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 60,
+      "object_id": 140,
+      "attribute": {
+        "Float": 2.1
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 68,
+      "object_id": 148,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 3
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 70,
+      "object_id": 150,
+      "attribute": {
+        "LoadoutsOnline": {
+          "blue": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "orange": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          "unknown1": true,
+          "unknown2": false
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 71,
+      "object_id": 151,
+      "attribute": {
+        "TeamLoadout": {
+          "blue": {
+            "version": 28,
+            "body": 4284,
+            "decal": 0,
+            "wheels": 376,
+            "rocket_trail": 63,
+            "antenna": 0,
+            "topper": 0,
+            "unknown1": 0,
+            "unknown2": 0,
+            "engine_audio": 0,
+            "trail": 1948,
+            "goal_explosion": 1903,
+            "banner": 2526,
+            "product_id": 0
+          },
+          "orange": {
+            "version": 28,
+            "body": 4284,
+            "decal": 0,
+            "wheels": 376,
+            "rocket_trail": 63,
+            "antenna": 0,
+            "topper": 0,
+            "unknown1": 0,
+            "unknown2": 0,
+            "engine_audio": 0,
+            "trail": 1948,
+            "goal_explosion": 1903,
+            "banner": 2526,
+            "product_id": 0
+          }
+        }
+      }
+    },
+    {
+      "actor_id": 16,
+      "stream_id": 74,
+      "object_id": 154,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 2
+        }
+      }
+    },
+    {
+      "actor_id": 19,
+      "stream_id": 23,
+      "object_id": 212,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 4
+        }
+      }
+    },
+    {
+      "actor_id": 19,
+      "stream_id": 42,
+      "object_id": 233,
+      "attribute": {
+        "RigidBody": {
+          "sleeping": false,
+          "location": {
+            "x": 256.0,
+            "y": -3840.0,
+            "z": 17.01
+          },
+          "rotation": {
+            "x": -0.0033744453,
+            "y": 0.0033744453,
+            "z": 0.707096,
+            "w": 0.70710146
+          },
+          "linear_velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.27
+          },
+          "angular_velocity": {
+            "x": -0.06,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "actor_id": 19,
+      "stream_id": 61,
+      "object_id": 311,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 25
+        }
+      }
+    },
+    {
+      "actor_id": 19,
+      "stream_id": 68,
+      "object_id": 318,
+      "attribute": {
+        "TeamPaint": {
+          "team": 0,
+          "primary_color": 67,
+          "accent_color": 57,
+          "primary_finish": 270,
+          "accent_finish": 270
+        }
+      }
+    },
+    {
+      "actor_id": 20,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 19
+        }
+      }
+    },
+    {
+      "actor_id": 21,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 19
+        }
+      }
+    },
+    {
+      "actor_id": 22,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 19
+        }
+      }
+    },
+    {
+      "actor_id": 23,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 19
+        }
+      }
+    },
+    {
+      "actor_id": 24,
+      "stream_id": 21,
+      "object_id": 264,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 19
+        }
+      }
+    },
+    {
+      "actor_id": 24,
+      "stream_id": 24,
+      "object_id": 278,
+      "attribute": {
+        "ReplicatedBoost": {
+          "grant_count": 0,
+          "boost_amount": 85,
+          "unused1": 0,
+          "unused2": 0
+        }
+      }
+    },
+    {
+      "actor_id": 26,
+      "stream_id": 28,
+      "object_id": 366,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 2
+        }
+      }
+    },
+    {
+      "actor_id": 27,
+      "stream_id": 28,
+      "object_id": 366,
+      "attribute": {
+        "ActiveActor": {
+          "active": true,
+          "actor": 2
+        }
+      }
+    }
+  ]
+}
